@@ -1,3 +1,3 @@
 # pymath
 
-A library to calculate symbolically.
+A complete library to calculate symbolically.
