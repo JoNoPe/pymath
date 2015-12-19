@@ -4,9 +4,13 @@ __author__ = 'Noah'
 class Term:
     def __init__(self):
         self.term = []
+        # var, const, numbers
+        # operators
+        # functions, brackets
+        # design custom functions as functions?
 
     def as_string(self):
-        return ''
+        pass
 
 
 class Equation:
